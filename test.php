@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "蛋疼小王子";
+echo "蛋小王子";
 ?>
